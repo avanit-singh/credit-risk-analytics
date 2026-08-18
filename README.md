@@ -33,6 +33,6 @@ Technical Workflow & Analytical Framework
                                                                Consumer Durables: $55\%$ LGD
    * Expected Credit Loss Framework: Account-level regulatory provisioning via:
 
-                                                                         $$\text{ECL} = \text{PD} \times \text{LGD} \times \text{EAD}$$
+                                                                         ECL = PD * LGD * EAD
 
 ## streamlit run dashboard/app.py
