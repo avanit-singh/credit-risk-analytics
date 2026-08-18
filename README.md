@@ -35,4 +35,4 @@ Technical Workflow & Analytical Framework
 
                                                                          ECL = PD * LGD * EAD
 
-## streamlit run dashboard/app.py
+**Live Dashboard Demo:** [Click Here to Access Live Interactive Dashboard](https://avanit-singh-credit-risk-analytics-dashboardapp-gbax3w.streamlit.app/)
